@@ -28,7 +28,7 @@ This script processes **quarterly** data and produces the **primary ECD dataset*
 
 ### `code_calculate_diversity_cbg_monthly.R` (for reference only)
 
-This script processes **monthly** data and is **not** used for the final dataset. It is provided for completeness and for users who may need monthly granularity. The logic is identical to the quarterly version but without temporal aggregation.
+This script produceds a **monthly-analogue** of the same ECD data and is **not** used for the final dataset. It is provided for completeness and for users who may need monthly granularity. The logic is identical to the quarterly version but without temporal aggregation.
 
 ## Dependencies
 
@@ -36,5 +36,7 @@ All scripts require the following R packages:
 - `dplyr`, `tidyverse`, `data.table`, `readr`
 
 Install them with:
+
 ```r
 install.packages(c("dplyr", "tidyverse", "data.table", "readr"))
+```
