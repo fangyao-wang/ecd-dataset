@@ -2,8 +2,8 @@
 Experiential Culinary Diversity (ECD) Dataset – code for processing Advan foot traffic data, classification, diversity indices, and validation.
 
 
-[![Data DOI](https://img.shields.io/badge/Data%20DOI-10.7910/DVN/XXXXXX-blue)](https://doi.org/10.7910/DVN/XXXXXX)
-[![Code DOI](https://img.shields.io/badge/Code%20DOI-10.5281/zenodo.XXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![Data DOI](https://img.shields.io/badge/Data%20DOI-10.7910/DVN/PXKT5F-blue)](https://doi.org/10.7910/DVN/PXKT5F)
+[![Code DOI](https://img.shields.io/badge/Code%20DOI-10.5281/zenodo.21330947-blue)](https://doi.org/10.5281/zenodo.21330947)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains all code and documentation required to process raw foot‑traffic data (from Advan/Dewey) into the **Experiential Culinary Diversity (ECD) dataset** at the US Census Block Group (CBG) level. The final dataset – quarterly diversity indices (`q = 0, 1, 2`) for three classification levels (service type, ethnic cuisine, and combined) – is publicly available via the Data DOI above.
@@ -132,11 +132,11 @@ Please cite both the code (this repository via Zenodo) and the data (Harvard Dat
 
 **Code** 
 
-Liu, P., Li, M., Wang, F., & Zhang, W. (2026). ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXX
+Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21330947
 
 **Data**
 
-Liu, P., Li, M., Wang, F., & Zhang, W. (2026). Experiential Culinary Diversity (ECD) Index for the United States, 2019‑2023 [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/XXXXXX
+Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *Experiential Culinary Diversity (ECD) Dataset for U.S. Census Block Groups, 2019 & 2023* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/PXKT5F
 
 
 For the full methodological details, please refer to the Scientific Data paper.
@@ -148,13 +148,13 @@ For the full methodological details, please refer to the Scientific Data paper.
 - Data (final ECD indices in Harvard Dataverse): CC‑BY‑4.0
 
 ## Contact ##
-For questions, please open an issue on this repository or contact the corresponding authors:
+For questions, please open an issue on this repository or contact the authors:
 
-- Peng Liu - peng.liu@cornell.edu
+- Fangyao Wang - fwang225@wisc.edu
 
 - Miao Li - forli0829@163.com
 
-- Fangyao Wang - fwang225@wisc.edu
+- Peng Liu - peng.liu@cornell.edu
 
 - Wendong Zhang - wendongz@cornell.edu
 
