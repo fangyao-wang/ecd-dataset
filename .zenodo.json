@@ -1,0 +1,31 @@
+{
+  "creators": [
+    {
+      "name": "Wang, Fangyao",
+      "affiliation": "Department of Agricultural and Applied Economics, University of Wisconsin-Madison",
+      "orcid": "0009-0005-7691-4428"
+    },
+    {
+      "name": "Li, Miao",
+      "affiliation": "School of Management, Wuhan Institute of Technology",
+      "orcid": "0000-0001-6948-1824"
+    },
+    {
+      "name": "Liu, Peng",
+      "affiliation": "Nolan School of Hotel Administration, Cornell University",
+      "orcid": "0000-0002-7786-6422"
+    },
+    {
+      "name": "Zhang, Wendong",
+      "affiliation": "Dyson School of Applied Economics and Management, Cornell University",
+      "orcid": "0000-0002-1244-3357"
+    }
+  ],
+  "license": "MIT",
+  "title": "ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset",
+  "version": "v1.0.1",
+  "publication_date": "2026-07-17",
+  "description": "Code and documentation for processing raw Advan foot-traffic data into the Experiential Culinary Diversity (ECD) dataset. Includes classification rules, Hill number calculations, and technical validation scripts."
+}
+
+"Add .zenodo.json with author metadata"
