@@ -27,5 +27,3 @@
   "publication_date": "2026-07-17",
   "description": "Code and documentation for processing raw Advan foot-traffic data into the Experiential Culinary Diversity (ECD) dataset. Includes classification rules, Hill number calculations, and technical validation scripts."
 }
-
-"Add .zenodo.json with author metadata"
