@@ -23,7 +23,7 @@
   ],
   "license": "MIT",
   "title": "ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset",
-  "version": "v1.0.1",
-  "publication_date": "2026-07-17",
+  "version": "v1.0.3",
+  "publication_date": "2026-07-30",
   "description": "Code and documentation for processing raw Advan foot-traffic data into the Experiential Culinary Diversity (ECD) dataset. Includes classification rules, Hill number calculations, and technical validation scripts."
 }
