@@ -9,7 +9,7 @@ Experiential Culinary Diversity (ECD) Dataset – code for processing Advan foot
 This repository contains all code and documentation required to process raw foot‑traffic data (from Advan/Dewey) into the **Experiential Culinary Diversity (ECD) dataset** at the US Census Block Group (CBG) level. The final dataset – quarterly diversity indices (`q = 0, 1, 2`) for three classification levels (service type, ethnic cuisine, and combined) – is publicly available via the Data DOI above.
 
 **Associated manuscript:**  
-Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *A visit-based dataset of experiential culinary diversity for U.S. census block groups*. Manuscript in preparation for submission to *Nature Scientific Data*.  
+Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *Experiential Culinary Diversity: A Visit-Based Dataset for U.S. Census Block Groups from Mobile Phone Data*. Manuscript in preparation for submission to *Nature Scientific Data*.  
 *Note: This paper has not yet been published. Please do not cite it until the final version appears.*
 
 ---
@@ -133,7 +133,7 @@ Please cite both the code (this repository via Zenodo) and the data (Harvard Dat
 
 **Code** 
 
-Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset* (Version v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21330947
+Wang, F., Li, M., Liu, P., & Zhang, W. (2026). *ecd-dataset: Code and documentation for the Experiential Culinary Diversity dataset* (Version v1.0.4). Zenodo. https://doi.org/10.5281/zenodo.21330947
 
 **Data**
 
